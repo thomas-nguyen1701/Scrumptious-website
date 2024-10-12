@@ -1,6 +1,6 @@
 function Aboutme(){
     const social1 = "fuck you";
-    const social2 = "@Thomas.Nguyen1701";
+    const social2 = "@Thomas.Nguyen";
     return(
         <ul>
             <li>{social1}</li>
