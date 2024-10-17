@@ -6,11 +6,13 @@
     "configurations": [
         
 
+        
+
         {
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:5173/",
+            "url": "http://localhost:5174/",
             "webRoot": "${workspaceFolder}"
         }
     ]
